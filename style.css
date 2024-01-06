@@ -65,3 +65,78 @@ nav li {
 
 /*Fin accueil*/
 
+/*Début études*/
+
+.etudes {
+    background-image: url("images/uni_catho.jpg");
+    background-size: cover;
+    padding-bottom:10%;
+}
+
+.titreetudes {
+    text-align: center;
+    color: white;
+    background-color: grey;
+}
+
+.etudes h1{
+    text-align: center;
+    color: white;
+}
+.etudesecole {
+    margin-left: 23%;
+}
+
+.ecole {
+    width: 70%;
+    height: 20%;
+    background-color: rgba(40, 45, 60, 0.7); /* Couleur avec opacité de 0.7 */
+    align-items: center;
+}
+
+
+.ecole img{
+    width: 15%;
+    height: 20%;
+    display: block;
+    margin: auto;
+}
+
+/*Fin études*/
+
+/*Début expériences*/
+
+.experiences {
+    background-image: url("images/expjap.jpg");
+    background-size: cover;
+    padding-bottom:10%;
+}
+
+.titreexperiences {
+    text-align: center;
+    color: white;
+    background-color: grey;
+}
+
+.experiences h1{
+    text-align: center;
+    color: white;
+}
+
+.experiencespro {
+    margin-left: 23%;
+}
+
+.pro{
+    width: 70%;
+    height: 20%;
+    background-color: rgba(40, 45, 60, 0.7); /* Couleur avec opacité de 0.7 */
+    align-items: center;
+}
+
+.pro img{
+    width: 15%;
+    height: 20%;
+    margin: auto;
+    display: block;
+}
